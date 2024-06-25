@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File "C:\Windows\System32\GroupPolicy\Machine\Scripts\Shutdown\shutdown-email.ps1"
